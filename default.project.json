@@ -1,8 +1,6 @@
 {
     "name": "Rojo template file",
-    "servePlaceIds": [
-      6029196496,0
-    ],
+   
     "tree": {
       "$className": "DataModel",
       "ReplicatedFirst": {
